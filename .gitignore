@@ -185,3 +185,7 @@ fabric.properties
 /.project
 /.classpath
 /games/
+
+target/
+
+target
